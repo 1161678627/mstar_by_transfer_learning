@@ -1,0 +1,2 @@
+# mstar_by_transfer_learning
+本项目为 xd 深度学习课程期末大作业，针对MSTAR数据集使用迁移学习的方式进行训练
